@@ -1,0 +1,9 @@
+{
+	"name": "ihp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63ea83dd-61bd-4003-9881-789af88721c9",
+		"tenantId": "17a559a6-622b-425c-a6be-9dc60011bfd5"
+	}
+}
